@@ -4,7 +4,7 @@ Ethereum Honduras opera en un modelo abierto a contribuidores donde todos son bi
 
 Primero, en términos de estructura, no hay un término de "Administrador de Ethereum Honduras", pues no existe un grupo privilegiado. Ethereum Honduras basa su forma de trabajar en los principios del Open Source, usualmente estos principios operan de manera meritocrática donde los contribuidores obtienen la confianza de la comunidad a través del tiempo. Sin embargo, ocupamos ciertos roles para propósitos prácticos. Por ejemplo, ocupamos administradores de cuentas de Twitter, Youtube, Github, ENS, DNS, moderadores de discord, etc. 
 
-## Contribuyendo por primera vez
+### Contribuyendo por primera vez
 
 Los nuevos contribuidores son bienvenidos. 
 
@@ -12,21 +12,21 @@ Antes de empezar a contribuir tienes que familiarizarte con los valores de la co
 
 Una vez que te sientas listo para empezar a contribuir, consúltalo con diferentes miembros de la comunidad para que tengas una mejor idea si es algo que es de ayuda y que va alineado con los valores de la comunidad. No es necesario pedir permiso para colaborar, pero te invitamos a buscar feedback de lo que haces y también a compartir tiempo con la comunidad y eventos de Ethereum para que tus contribuciones sean de mayor impacto y requieran de menos trabajo de los demás.
 
-## Canales de comunicación
+### Canales de comunicación
 LINKS
 
-## Cómo contribuir
+### Cómo contribuir
 
 Cuando hagas una contribución, si lo necesitas, solicita algún acceso a algún recurso a los administradores de ese recurso. Al hacerlo te recomendamos seguir las siguientes buenas prácticas: 
 
-* Ser atómico: iniciar con contribuciones pequeñas
-* Ser conciso: toma en consideración el tiempo de los demás y expresa tus ideas de manera corta y ordenada
-* Ser claro: exprésate de manera directa
-* Mantente actualizado: actualiza tus contribuciones en base a donde se mueva la comunidad
-* Usa el feedback: responde al feedback que se te da y crea conversaciones
-* Ayuda a los demás: presta ayuda a los que vienen empezando
+* **Ser atómico**: iniciar con contribuciones pequeñas
+* **Ser conciso**: toma en consideración el tiempo de los demás y expresa tus ideas de manera corta y ordenada
+* **Ser claro**: exprésate de manera directa
+* **Mantente actualizado**: actualiza tus contribuciones en base a donde se mueva la comunidad
+* **Usa el feedback**: responde al feedback que se te da y crea conversaciones
+* **Ayuda a los demás**: presta ayuda a los que vienen empezando
 
-## Proceso de “toma de decisiones”
+### Proceso de “toma de decisiones”
 
 Recuerda que Ethereum Honduras representa la comunidad local no todo el ecosistema.
 Si ocupas un recurso de la comunidad ciertas veces debes ser paciente, pero hay ciertas cosas que puedes hacer al respecto:
